@@ -1,12 +1,12 @@
 {
-  "tag_name": "v2026.03.17-7c0dba7",
-  "name": "Claude Swarm IDE v2026.03.17-7c0dba7",
-  "html_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/tag/v2026.03.17-7c0dba7",
-  "published_at": "2026-03-17T23:35:58Z",
+  "tag_name": "v2026.03.18-f3a72c5",
+  "name": "Claude Swarm IDE v2026.03.18-f3a72c5",
+  "html_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/tag/v2026.03.18-f3a72c5",
+  "published_at": "2026-03-18T19:35:24Z",
   "assets": [
-    {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-darwin-arm64.dmg", "size": 218305448},
-    {"name": "ClaudeSwarmIDE-darwin-x64.dmg", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-darwin-x64.dmg", "size": 226985996},
-    {"name": "ClaudeSwarmIDE-win32-arm64.zip", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-win32-arm64.zip", "size": 187910356},
-    {"name": "ClaudeSwarmIDE-win32-x64.zip", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-win32-x64.zip", "size": 189031749}
+    {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.18-f3a72c5/ClaudeSwarmIDE-darwin-arm64.dmg"},
+    {"name": "ClaudeSwarmIDE-darwin-x64.dmg", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.18-f3a72c5/ClaudeSwarmIDE-darwin-x64.dmg"},
+    {"name": "ClaudeSwarmIDE-win32-arm64.zip", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.18-f3a72c5/ClaudeSwarmIDE-win32-arm64.zip"},
+    {"name": "ClaudeSwarmIDE-win32-x64.zip", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.18-f3a72c5/ClaudeSwarmIDE-win32-x64.zip"}
   ]
 }
