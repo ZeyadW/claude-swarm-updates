@@ -1,0 +1,14 @@
+{
+  "tag_name": "v2026.03.17-7c0dba7",
+  "name": "Claude Swarm IDE v2026.03.17-7c0dba7",
+  "html_url": "https://github.com/mostafasaeedkhattab/claude-swarm-ide/releases/tag/v2026.03.17-7c0dba7",
+  "published_at": "2026-03-17T23:35:58Z",
+  "assets": [
+    {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/mostafasaeedkhattab/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-darwin-arm64.dmg", "size": 218305448},
+    {"name": "ClaudeSwarmIDE-darwin-x64.dmg", "browser_download_url": "https://github.com/mostafasaeedkhattab/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-darwin-x64.dmg", "size": 226985996},
+    {"name": "ClaudeSwarmIDE-linux-arm64.tar.gz", "browser_download_url": "https://github.com/mostafasaeedkhattab/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-linux-arm64.tar.gz", "size": 162748917},
+    {"name": "ClaudeSwarmIDE-linux-x64.tar.gz", "browser_download_url": "https://github.com/mostafasaeedkhattab/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-linux-x64.tar.gz", "size": 162294634},
+    {"name": "ClaudeSwarmIDE-win32-arm64.zip", "browser_download_url": "https://github.com/mostafasaeedkhattab/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-win32-arm64.zip", "size": 187910356},
+    {"name": "ClaudeSwarmIDE-win32-x64.zip", "browser_download_url": "https://github.com/mostafasaeedkhattab/claude-swarm-ide/releases/download/v2026.03.17-7c0dba7/ClaudeSwarmIDE-win32-x64.zip", "size": 189031749}
+  ]
+}
