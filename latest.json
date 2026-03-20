@@ -1,12 +1,12 @@
 {
-  "tag_name": "v2026.03.18-f3a72c5",
-  "name": "Claude Swarm IDE v2026.03.18-f3a72c5",
-  "html_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/tag/v2026.03.18-f3a72c5",
-  "published_at": "2026-03-18T19:35:24Z",
+  "tag_name": "v2026.03.20-d9a2670",
+  "name": "Claude Swarm IDE v2026.03.20-d9a2670",
+  "html_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/tag/v2026.03.20-d9a2670",
+  "published_at": "2026-03-20T06:28:15Z",
   "assets": [
-    {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.18-f3a72c5/ClaudeSwarmIDE-darwin-arm64.dmg"},
-    {"name": "ClaudeSwarmIDE-darwin-x64.dmg", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.18-f3a72c5/ClaudeSwarmIDE-darwin-x64.dmg"},
-    {"name": "ClaudeSwarmIDE-win32-arm64.zip", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.18-f3a72c5/ClaudeSwarmIDE-win32-arm64.zip"},
-    {"name": "ClaudeSwarmIDE-win32-x64.zip", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.18-f3a72c5/ClaudeSwarmIDE-win32-x64.zip"}
+    {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.20-d9a2670/ClaudeSwarmIDE-darwin-arm64.dmg"},
+    {"name": "ClaudeSwarmIDE-darwin-x64.dmg", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.20-d9a2670/ClaudeSwarmIDE-darwin-x64.dmg"},
+    {"name": "ClaudeSwarmIDE-win32-arm64.zip", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.20-d9a2670/ClaudeSwarmIDE-win32-arm64.zip"},
+    {"name": "ClaudeSwarmIDE-win32-x64.zip", "browser_download_url": "https://github.com/Kalemna-eg/claude-swarm-ide/releases/download/v2026.03.20-d9a2670/ClaudeSwarmIDE-win32-x64.zip"}
   ]
 }
