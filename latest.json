@@ -1,12 +1,10 @@
 {
-  "tag_name": "v2026.03.26-4c2feed",
-  "name": "Claude Swarm IDE v2026.03.26-4c2feed",
-  "html_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/tag/v2026.03.26-4c2feed",
-  "published_at": "2026-03-26T21:48:39Z",
+  "tag_name": "v1.113.36",
+  "name": "Claude Swarm IDE v1.113.36",
+  "html_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/tag/v1.113.36",
+  "published_at": "2026-04-27T17:38:03Z",
   "assets": [
-    {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/download/v2026.03.26-4c2feed/ClaudeSwarmIDE-darwin-arm64.dmg"},
-    {"name": "ClaudeSwarmIDE-darwin-x64.dmg", "browser_download_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/download/v2026.03.26-4c2feed/ClaudeSwarmIDE-darwin-x64.dmg"},
-    {"name": "ClaudeSwarmIDE-win32-arm64.zip", "browser_download_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/download/v2026.03.26-4c2feed/ClaudeSwarmIDE-win32-arm64.zip"},
-    {"name": "ClaudeSwarmIDE-win32-x64.zip", "browser_download_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/download/v2026.03.26-4c2feed/ClaudeSwarmIDE-win32-x64.zip"}
+    {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/download/v1.113.36/ClaudeSwarmIDE-darwin-arm64.dmg"},
+    {"name": "ClaudeSwarmIDE-win32-x64.zip", "browser_download_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/download/v1.113.36/ClaudeSwarmIDE-win32-x64.zip"}
   ]
 }
