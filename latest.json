@@ -1,7 +1,7 @@
 {
-  "tag_name": "v1.125.19",
-  "name": "Claude Swarm IDE v1.125.19",
-  "html_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/tag/v1.125.19",
-  "published_at": "2026-07-24T15:32:50Z",
-  "assets": [ {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/download/v1.125.19/ClaudeSwarmIDE-darwin-arm64.dmg", "size": 212709264} ]
+  "tag_name": "v1.125.20",
+  "name": "Claude Swarm IDE v1.125.20",
+  "html_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/tag/v1.125.20",
+  "published_at": "2026-07-24T16:16:30Z",
+  "assets": [ {"name": "ClaudeSwarmIDE-darwin-arm64.dmg", "browser_download_url": "https://github.com/ZeyadW/claude-swarm-updates/releases/download/v1.125.20/ClaudeSwarmIDE-darwin-arm64.dmg", "size": 211657295} ]
 }
